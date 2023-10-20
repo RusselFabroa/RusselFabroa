@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RusselFabroa
+- 👀 I’m currently working as Engineer/Software Developer in TDK Philippine Corporation
 - 👀 I’m interested in Web and Mobile App Development
 - - 👀 I’m skilled in PHP Laravel and JS
 - 🌱 I’m currently learning Flutter Framework & Dart
