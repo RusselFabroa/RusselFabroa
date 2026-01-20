@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Russel Fabroa (@RusselFabroa)
 
-👨‍💻 **Engineer / Software Developer** at **TDK Philippines Corporation**  
+👨‍💻 **Engineer / Software Engineer** at **TDK Philippines Corporation**  
 🚀 Passionate about building reliable, scalable systems for enterprise and production use
 
 ---
