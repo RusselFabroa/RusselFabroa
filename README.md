@@ -2,7 +2,6 @@
 
 👨‍💻 **Engineer / Software Engineer** at **TDK Philippines Corporation**  
 🚀 Passionate about building reliable, scalable systems for enterprise and production use
-https://russelfabroa.github.io/AselDevPortfolio/
 ---
 
 ### 👀 Interests
@@ -59,7 +58,7 @@ I’m open to collaborating on:
 ### 📫 Contact
 📧 **Email:** fabroa.russel246@gmail.com  
 💬 Feel free to reach out for collaboration, tech discussions, or project ideas.
-
+💬 https://russelfabroa.github.io/AselDevPortfolio/
 ---
 
 ⭐ _Always learning. Always improving. Building systems that matter._
